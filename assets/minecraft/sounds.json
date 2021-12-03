@@ -1,0 +1,158 @@
+{
+	"kuiqi1": {
+		"sounds": [{
+			"name": "Kuiqi1",
+			"stream": true
+		}]
+	},
+	"kuiqi2": {
+		"sounds": [{
+			"name": "Kuiqi2",
+			"stream": true
+		}]
+	},
+	"jihua1": {
+		"sounds": [{
+			"name": "Jihua1",
+			"stream": true
+		}]
+	},
+	"jihua2": {
+		"sounds": [{
+			"name": "Jihua2",
+			"stream": true
+		}]
+	},
+	"tongji1": {
+		"sounds": [{
+			"name": "Tongji1",
+			"stream": true
+		}]
+	},
+	"tongji2": {
+		"sounds": [{
+			"name": "Tongji2",
+			"stream": true
+		}]
+	},
+	"zumiao1": {
+		"sounds": [{
+			"name": "Zumiao1",
+			"stream": true
+		}]
+	},
+	"zumiao2": {
+		"sounds": [{
+			"name": "Zumiao2",
+			"stream": true
+		}]
+	},
+	"pujun1": {
+		"sounds": [{
+			"name": "Pujun1",
+			"stream": true
+		}]
+	},
+	"pujun2": {
+		"sounds": [{
+			"name": "Pujun2",
+			"stream": true
+		}]
+	},
+	"chaoan1": {
+		"sounds": [{
+			"name": "Chaoan1",
+			"stream": true
+		}]
+	},
+	"chaoan2": {
+		"sounds": [{
+			"name": "Chaoan2",
+			"stream": true
+		}]
+	},
+	"guicheng1": {
+		"sounds": [{
+			"name": "Guicheng1",
+			"stream": true
+		}]
+	},
+	"guicheng2": {
+		"sounds": [{
+			"name": "Guicheng2",
+			"stream": true
+		}]
+	},
+	"nangui1": {
+		"sounds": [{
+			"name": "Nangui1",
+			"stream": true
+		}]
+	},
+	"nangui2": {
+		"sounds": [{
+			"name": "Nangui2",
+			"stream": true
+		}]
+	},
+	"leigang1": {
+		"sounds": [{
+			"name": "Leigang1",
+			"stream": true
+		}]
+	},
+	"leigang2": {
+		"sounds": [{
+			"name": "Leigang2",
+			"stream": true
+		}]
+	},
+	"qiandeng1": {
+		"sounds": [{
+			"name": "Qiandeng1",
+			"stream": true
+		}]
+	},
+	"qiandeng2": {
+		"sounds": [{
+			"name": "Qiandeng2",
+			"stream": true
+		}]
+	},
+	"jrgxq1": {
+		"sounds": [{
+			"name": "Jrgxq1",
+			"stream": true
+		}]
+	},
+	"jrgxq2": {
+		"sounds": [{
+			"name": "Jrgxq2",
+			"stream": true
+		}]
+	},
+	"longxi1": {
+		"sounds": [{
+			"name": "Longxi1",
+			"stream": true
+		}]
+	},
+	"longxi2": {
+		"sounds": [{
+			"name": "Longxi2",
+			"stream": true
+		}]
+	},
+	"jushu1": {
+		"sounds": [{
+			"name": "Jushu1",
+			"stream": true
+		}]
+	},
+	"jushu2": {
+		"sounds": [{
+			"name": "Jushu2",
+			"stream": true
+		}]
+	}
+}
