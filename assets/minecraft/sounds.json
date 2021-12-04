@@ -1,4 +1,52 @@
 {
+	"xincheng1": {
+		"sounds": [{
+			"name": "Xinchengi1",
+			"stream": true
+		}]
+	},
+	"xincheng2": {
+		"sounds": [{
+			"name": "Xinchengi2",
+			"stream": true
+		}]
+	},
+	"dongping1": {
+		"sounds": [{
+			"name": "Dongping1",
+			"stream": true
+		}]
+	},
+	"dongping2": {
+		"sounds": [{
+			"name": "Dongping2",
+			"stream": true
+		}]
+	},
+	"shiji1": {
+		"sounds": [{
+			"name": "Shiji1",
+			"stream": true
+		}]
+	},
+	"shiji2": {
+		"sounds": [{
+			"name": "Shiji2",
+			"stream": true
+		}]
+	},
+	"lanshi1": {
+		"sounds": [{
+			"name": "Lanshi1",
+			"stream": true
+		}]
+	},
+	"lanshi2": {
+		"sounds": [{
+			"name": "Lanshi2",
+			"stream": true
+		}]
+	},
 	"kuiqi1": {
 		"sounds": [{
 			"name": "Kuiqi1",
@@ -152,6 +200,102 @@
 	"jushu2": {
 		"sounds": [{
 			"name": "Jushu2",
+			"stream": true
+		}]
+	},
+	"xilang1": {
+		"sounds": [{
+			"name": "Xilang1",
+			"stream": true
+		}]
+	},
+	"xilang2": {
+		"sounds": [{
+			"name": "Xilang2",
+			"stream": true
+		}]
+	},
+	"hedong1": {
+		"sounds": [{
+			"name": "Hedong1",
+			"stream": true
+		}]
+	},
+	"hedong2": {
+		"sounds": [{
+			"name": "Hedong2",
+			"stream": true
+		}]
+	},
+	"shachong1": {
+		"sounds": [{
+			"name": "Shachong1",
+			"stream": true
+		}]
+	},
+	"shachong2": {
+		"sounds": [{
+			"name": "Shachong2",
+			"stream": true
+		}]
+	},
+	"shayuan1": {
+		"sounds": [{
+			"name": "Shayuan1",
+			"stream": true
+		}]
+	},
+	"shayuan2": {
+		"sounds": [{
+			"name": "Shayuan2",
+			"stream": true
+		}]
+	},
+	"yangang1": {
+		"sounds": [{
+			"name": "Yangang1",
+			"stream": true
+		}]
+	},
+	"yangang2": {
+		"sounds": [{
+			"name": "Yangang2",
+			"stream": true
+		}]
+	},
+	"shixi1": {
+		"sounds": [{
+			"name": "Shixi1",
+			"stream": true
+		}]
+	},
+	"shixi2": {
+		"sounds": [{
+			"name": "Shixi2",
+			"stream": true
+		}]
+	},
+	"nanzhou1": {
+		"sounds": [{
+			"name": "Nanzhou1",
+			"stream": true
+		}]
+	},
+	"nanzhou2": {
+		"sounds": [{
+			"name": "Nanzhou2",
+			"stream": true
+		}]
+	},
+	"lijiao1": {
+		"sounds": [{
+			"name": "Lijiao1",
+			"stream": true
+		}]
+	},
+	"lijiao2": {
+		"sounds": [{
+			"name": "Lijiao2",
 			"stream": true
 		}]
 	}
