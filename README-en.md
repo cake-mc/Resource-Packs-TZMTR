@@ -1,4 +1,4 @@
-[简体中文](https://github.com/cake-mc/Resources-Parks-TZMTR/README.md) | English
+[简体中文](https://github.com/cake-mc/Resources-Parks-TZMTR/blob/record/README.md) | English
 # 👏 Welcome
 This is the place where **TZMTR** is used to store the station announcement resource pack, and you can participate in editing.
 
