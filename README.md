@@ -1,4 +1,4 @@
-简体中文 | [English](https://github.com/cake-mc/Resources-Parks-TZMTR/README-en.md)
+简体中文 | [English](https://github.com/cake-mc/Resources-Parks-TZMTR/blob/record/README-en.md)
 # 👏 欢迎
 这是 **TZMTR** 用于存放报站资源包的地方，你可以参加编辑。
 
