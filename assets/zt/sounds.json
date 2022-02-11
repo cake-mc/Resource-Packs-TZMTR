@@ -1,0 +1,26 @@
+{
+	"lj1plf": {
+		"sounds": [{
+			"name": "zt:lj1plf",
+			"stream": true
+		}]
+	},
+	"lj6plf": {
+		"sounds": [{
+			"name": "zt:lj6plf",
+			"stream": true
+		}]
+	},
+	"xcd2plf": {
+		"sounds": [{
+			"name": "zt:xcd2plf",
+			"stream": true
+		}]
+	},
+	"xl2plf": {
+		"sounds": [{
+			"name": "zt:xl2plf",
+			"stream": true
+		}]
+	}
+}

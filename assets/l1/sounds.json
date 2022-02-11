@@ -1,0 +1,32 @@
+{
+	"xilangdong2": {
+		"sounds": [{
+			"name": "l1:a1",
+			"stream": true
+		}]
+	},
+	"xilang2": {
+		"sounds": [{
+			"name": "l1:a2",
+			"stream": true
+		}]
+	},
+	"kengkou1": {
+		"sounds": [{
+			"name": "l1:a4",
+			"stream": true
+		}]
+	},
+	"kengkou2": {
+		"sounds": [{
+			"name": "l1:a5",
+			"stream": true
+		}]
+	},
+	"huadiwan1": {
+		"sounds": [{
+			"name": "l1:a6",
+			"stream": true
+		}]
+	}
+}
